@@ -1,0 +1,31 @@
+_repo: As-Other-Men-Are_65387
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yates, Dornford
+    alias: Mercer, Cecil William
+    birthdate: 1885
+    deathdate: 1960
+    gutenberg_agent_id: '384'
+    url: http://www.gutenberg.org/2009/agents/384
+    wikipedia: https://en.wikipedia.org/wiki/Dornford_Yates
+description: ''
+gutenberg_issued: '2021-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 20th century'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Short stories, English'
+- GITenberg
+tableOfContents: Jeremy -- Simon -- Toby -- Oliver -- Christopher -- Ivan -- Hubert
+  -- Titus -- Peregrine -- Derry.
+title: As Other Men Are
+url: http://www.gutenberg.org/ebooks/65387
